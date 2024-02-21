@@ -27,7 +27,7 @@ function App() {
   }, []);
 
   return (
-    <Router basename={isProductionMode ? '/my-portfolio' : '/'}>
+    <Router basename={isProductionMode ? '/poxii' : '/'}>
       <Preloader load={load} />
       <div className="App" id={load ? 'no-scroll' : 'scroll'}>
         <Navbar />
