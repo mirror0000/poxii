@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/poxii/static/css/main.ef8dc583.css",
-    "main.js": "/poxii/static/js/main.1540f787.js",
+    "main.js": "/poxii/static/js/main.7b4572b7.js",
     "static/js/453.a39a5d8e.chunk.js": "/poxii/static/js/453.a39a5d8e.chunk.js",
     "static/media/avatar.svg": "/poxii/static/media/avatar.5223d91661c83d5fec8704b72adfc713.svg",
     "static/media/home-main.svg": "/poxii/static/media/home-main.f315a21918734a8abbf7fdd4c2b374f0.svg",
@@ -13,11 +13,11 @@
     "static/media/pre.svg": "/poxii/static/media/pre.89bf395d3785331eebd4.svg",
     "index.html": "/poxii/index.html",
     "main.ef8dc583.css.map": "/poxii/static/css/main.ef8dc583.css.map",
-    "main.1540f787.js.map": "/poxii/static/js/main.1540f787.js.map",
+    "main.7b4572b7.js.map": "/poxii/static/js/main.7b4572b7.js.map",
     "453.a39a5d8e.chunk.js.map": "/poxii/static/js/453.a39a5d8e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ef8dc583.css",
-    "static/js/main.1540f787.js"
+    "static/js/main.7b4572b7.js"
   ]
 }
