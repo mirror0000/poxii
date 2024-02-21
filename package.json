@@ -1,7 +1,7 @@
 {
   "name": "my-portfolio",
   "version": "0.1.0",
-  "homepage": "https://poxii.github.io/myportfolio",
+  "homepage": "https://mirror0000.github.io/poxii",
   "private": true,
   "dependencies": {
     "@babel/core": "^7.0.0-0",
