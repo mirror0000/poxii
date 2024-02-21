@@ -22,7 +22,7 @@ export const MainRoutes = [
   },
   {
     className: 'fork-btn-inner',
-    href: 'https://github.com/lazar59',
+    href: 'https://github.com/mirror0000',
     icon: () => (
       <>
         <CgGitFork style={{ fontSize: '1.2em' }} /> <AiFillStar style={{ fontSize: '1.1em' }} />

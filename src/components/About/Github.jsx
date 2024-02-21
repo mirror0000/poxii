@@ -21,7 +21,7 @@ export default function Github() {
           }}
         >
           <GitHubCalendar
-            username="lazar59"
+            username="mirror0000"
             blockSize={15}
             blockMargin={5}
             showWeekdayLabels={true}
