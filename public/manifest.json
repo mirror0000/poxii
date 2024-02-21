@@ -1,0 +1,16 @@
+{
+  "name": "Miroslav Pesic",
+  "short_name": "Miroslav Pesic",
+  "theme_color": "#2d1950",
+  "background_color": "#2d1950",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ]
+}
