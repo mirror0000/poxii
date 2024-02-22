@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.58ba288d.css",
-    "main.js": "/portfolio/static/js/main.1793ed51.js",
-    "static/js/453.a39a5d8e.chunk.js": "/portfolio/static/js/453.a39a5d8e.chunk.js",
-    "static/media/avatar.svg": "/portfolio/static/media/avatar.5223d91661c83d5fec8704b72adfc713.svg",
-    "static/media/home-main.svg": "/portfolio/static/media/home-main.f315a21918734a8abbf7fdd4c2b374f0.svg",
-    "static/media/home-bg.jpg": "/portfolio/static/media/home-bg.37da584907ab6a5db543.jpg",
-    "static/media/about.svg": "/portfolio/static/media/about.5d20d6ed2a6a3ba6ccd9d184113d0475.svg",
-    "service-worker.js": "/portfolio/service-worker.js",
-    "static/media/Raleway-ratin.woff2": "/portfolio/static/media/Raleway-ratin.20613f79100832755b84.woff2",
-    "static/media/Raleway-ratin-ext.woff2": "/portfolio/static/media/Raleway-ratin-ext.b32c37e62611b8ac3d70.woff2",
-    "static/media/pre.svg": "/portfolio/static/media/pre.89bf395d3785331eebd4.svg",
-    "index.html": "/portfolio/index.html",
-    "main.58ba288d.css.map": "/portfolio/static/css/main.58ba288d.css.map",
-    "main.1793ed51.js.map": "/portfolio/static/js/main.1793ed51.js.map",
-    "453.a39a5d8e.chunk.js.map": "/portfolio/static/js/453.a39a5d8e.chunk.js.map"
+    "main.css": "/poxii/static/css/main.ef8dc583.css",
+    "main.js": "/poxii/static/js/main.114ee09c.js",
+    "static/js/453.a39a5d8e.chunk.js": "/poxii/static/js/453.a39a5d8e.chunk.js",
+    "static/media/avatar.svg": "/poxii/static/media/avatar.5223d91661c83d5fec8704b72adfc713.svg",
+    "static/media/home-main.svg": "/poxii/static/media/home-main.f315a21918734a8abbf7fdd4c2b374f0.svg",
+    "static/media/home-bg.jpg": "/poxii/static/media/home-bg.37da584907ab6a5db543.jpg",
+    "static/media/about.svg": "/poxii/static/media/about.5d20d6ed2a6a3ba6ccd9d184113d0475.svg",
+    "service-worker.js": "/poxii/service-worker.js",
+    "static/media/Raleway-ratin.woff2": "/poxii/static/media/Raleway-ratin.20613f79100832755b84.woff2",
+    "static/media/Raleway-ratin-ext.woff2": "/poxii/static/media/Raleway-ratin-ext.b32c37e62611b8ac3d70.woff2",
+    "static/media/pre.svg": "/poxii/static/media/pre.89bf395d3785331eebd4.svg",
+    "index.html": "/poxii/index.html",
+    "main.ef8dc583.css.map": "/poxii/static/css/main.ef8dc583.css.map",
+    "main.114ee09c.js.map": "/poxii/static/js/main.114ee09c.js.map",
+    "453.a39a5d8e.chunk.js.map": "/poxii/static/js/453.a39a5d8e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.58ba288d.css",
-    "static/js/main.1793ed51.js"
+    "static/css/main.ef8dc583.css",
+    "static/js/main.114ee09c.js"
   ]
 }
