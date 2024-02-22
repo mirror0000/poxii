@@ -13,7 +13,7 @@ export const LinkInfos = [
     label: 'GMail',
   },
   {
-    href: 'https://www.linkedin.com/in/miroslav-p-b255a92a9/',
+    href: 'https://www.linkedin.com/in/miroslav-pesic-b255a92a9/',
     icon: {
       dark: LGLinkedinIcon,
       light: LGLinkedinIcon,
