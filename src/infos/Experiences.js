@@ -28,7 +28,7 @@ export const Experiences = [
     since: '2008.10',
     until: '2014.3',
     title: 'Bachelor in Computer Science',
-    company: 'Osaka University Venture Capital',
+    company: 'Osaka University',
     address: 'Osaka, Japan',
     site: 'https://www.osaka-u.ac.jp/en',
     details: ['Computer Science', 'Web Programming'],
